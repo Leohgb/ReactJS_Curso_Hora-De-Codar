@@ -1,7 +1,10 @@
 ## Como rodar o Projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Primeiro Passo
+Rode o comando *npm install* 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Segundo Passo 
+Após a instalação do primeiro passo rode o comando *npm run backend*
+
+# Terceiro Passo 
+Rode o comando *npm start*
